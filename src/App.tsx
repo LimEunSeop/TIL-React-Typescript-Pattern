@@ -1,4 +1,3 @@
-import './App.css'
 import CounterClass from './CounterClass'
 import CounterFunction from './CounterFunction'
 
